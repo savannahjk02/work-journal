@@ -52,16 +52,6 @@ The application will look like the following:
 
 ![work journal screenshot 6](./assets/Screenshot%202024-03-11%20at%2010.27.31%20PM.png)
 
-[screencastify video link]()
-
-## Credits
-
-N/A
-
 ## License
 
 Please refer to the LICENSE in the repo.
-
-## Features
-
-N/A
